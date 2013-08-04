@@ -185,9 +185,9 @@ DEPENDENCIES
   guard-rspec
   jbuilder (~> 1.2)
   jquery-rails (= 2.2.1)
-  pg (= 0.15.1)
+  pg
   rails (= 4.0.0)
-  rails_12factor (= 0.0.2)
+  rails_12factor
   rspec-rails
   sass-rails (~> 4.0.0)
   sdoc
